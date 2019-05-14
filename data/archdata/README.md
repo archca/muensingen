@@ -1,6 +1,6 @@
 ## Fibulae
 
-Dataset from the package archdata
+Dataset from the package `archdata`
 
 ### From the help page
 
